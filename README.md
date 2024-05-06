@@ -35,7 +35,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chaayee0123&show_icons=true&locale=en" alt="chaayee0123" /></p>
 </div>
-<h3 align="center">Connect with me: chayee0614@gmail.com</h3>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfe2f3,50:9fc5e8,100:6fa8dc&section=footer" />
